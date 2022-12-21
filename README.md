@@ -1,2 +1,2 @@
-# ggfto.github.io
-Github Pages!
+# My Personal Website
+Made with jQuery, HTML, CSS
