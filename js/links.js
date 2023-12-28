@@ -30,5 +30,17 @@ links = [
 		value: "https://discordapp.com/users/289124013375094794",
         icon: "discord",
 		active: true
-	}
+	},
+    {
+        label: "Steam",
+        value: "https://steamcommunity.com/id/ggfto/",
+        icon: "steam",
+        active: true
+    },
+    {
+        label: "Email",
+        value: "mailto:ggfto@outlook.com",
+        icon: "envelope-at-fill",
+        active: true
+    }
 ]
